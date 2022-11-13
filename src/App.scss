@@ -1,0 +1,19 @@
+@import "../src/common/color.scss";
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+
+a{
+    text-decoration: none;
+    $font-secondary:#f0eff4
+
+}
+
+body{
+    background: $primary-color;
+}
+
